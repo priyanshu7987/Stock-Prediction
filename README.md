@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="# Titanic Classification"></a>
-  Project Management Tool
+  Titanic Classifcation
 </h1>
 
 ## `Project Title`
